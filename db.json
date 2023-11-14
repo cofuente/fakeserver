@@ -5,7 +5,9 @@
       "title": "hello"
     }
   ],
-  "profile": {
-    "name": "typicode"
+  "now": {
+    "name": "singad",
+    "id":2,
+    "text":"aquí puedes seguir poniendo cosas"
   }
 }
